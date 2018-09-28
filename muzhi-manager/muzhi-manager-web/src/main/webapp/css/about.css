@@ -1,0 +1,13 @@
+#about{
+    margin-top: 30px;
+}
+.table_gray{
+    background-color: #F8F8F8;
+    text-align: center;
+}
+.table_style{
+    text-align: center;
+}
+table>tbody>tr>td>a{
+    margin: auto 10px;
+}

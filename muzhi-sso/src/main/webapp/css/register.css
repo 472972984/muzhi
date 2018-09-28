@@ -1,0 +1,125 @@
+#register{
+    max-width: 1920px;
+    min-width: 1080px;
+    margin: 0 auto;
+
+}
+.register{
+    width: 1000px;
+    margin: 0 auto;
+}
+.title_line{
+    width: 980px;
+    height: 28px;
+    margin: 0 auto;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 28px;
+    text-align: center;
+}
+.tit{
+    height: 56px;
+    line-height: 56px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 38px;
+    font-weight: lighter;
+    background: #F6F6F6;
+    text-align: center;
+}
+/*表单部分*/
+.form{
+    width: 600px;
+    margin: 60px auto 60px;
+}
+.form>form{
+    width: 500px;
+    margin: 0 auto;
+}
+input[type='text']{
+    border-radius: 2px;
+    border: 1px solid #dcdfe6;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #606266;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    outline: 0;
+    padding: 0 15px;
+    width: 500px;
+    background-color:#F6F6F6;
+    margin: 10px auto;
+}
+input[type='password']{
+    border-radius: 2px;
+    border: 1px solid #dcdfe6;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #606266;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    outline: 0;
+    padding: 0 15px;
+    width: 500px;
+    background-color:#F6F6F6;
+    margin: 10px auto;
+}
+#verification{
+    width: 300px;
+}
+#getver{
+    width: 118px;
+    display: inline-block;
+    line-height: 1;
+    cursor: pointer;
+    border: 1px solid #dcdfe6;
+    color: white;
+    text-align: center;
+    outline: 0;
+    margin: 0;
+    font-weight: 500;
+    padding: 12px 30px;
+    font-size: 14px;
+    border-radius: 2px;
+    margin-left: 20px;
+    background-color: #409eff;
+}
+#publish{
+    width: 500px;
+    display: inline-block;
+    line-height: 1;
+    white-space: nowrap;
+    cursor: pointer;
+    background-color: #409eff;
+    border: 1px solid #dcdfe6;
+    color: white;
+    -webkit-appearance: none;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: 0;
+    margin: 0;
+    font-weight: 500;
+    padding: 12px 20px;
+    font-size: 14px;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.form>a{
+    display: inline-block;
+    color: #00a1d6;
+    font-family: '宋体';
+    font-size: 12px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 48px;
+}
+.form>form>p{
+    height: 24px;
+    line-height: 24px;
+    padding-left: 6px;
+    font-size: 14px;
+    font-family: 宋体;
+    color: red;
+}

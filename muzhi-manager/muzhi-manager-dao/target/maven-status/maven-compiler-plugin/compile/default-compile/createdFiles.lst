@@ -1,0 +1,10 @@
+com\muzhi\mapper\TbClassification1Mapper.class
+com\muzhi\mapper\TbClassification2Mapper.class
+com\muzhi\mapper\TbSuperAdminMapper.class
+com\muzhi\mapper\TbUserMapper.class
+com\muzhi\mapper\TbAdminMapper.class
+com\muzhi\mapper\TbItemMapper.class
+com\muzhi\mapper\TbOrderItemMapper.class
+com\muzhi\mapper\TbItemUserMapper.class
+com\muzhi\mapper\TbOrderMapper.class
+com\muzhi\mapper\TbUserInfoMapper.class

@@ -1,0 +1,11 @@
+com\muzhi\sso\controller\RegisterController.class
+com\muzhi\sso\service\impl\RegisterServiceImpl.class
+com\muzhi\sso\component\SendEmailUtil.class
+com\muzhi\sso\service\EmailService.class
+com\muzhi\sso\service\RegisterService.class
+com\muzhi\sso\controller\SendEmailController.class
+com\muzhi\sso\service\impl\EmailServiceImpl.class
+com\muzhi\sso\controller\LoginController.class
+com\muzhi\sso\service\impl\LoginServiceImpl.class
+com\muzhi\sso\controller\PageController.class
+com\muzhi\sso\service\LoginService.class
